@@ -1,4 +1,4 @@
-public class SliceMaker {
+public class Slice {
     private String color;
     private int prizeAmount;
 
